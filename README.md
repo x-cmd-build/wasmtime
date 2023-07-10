@@ -1,0 +1,1 @@
+wasmtime static binary
